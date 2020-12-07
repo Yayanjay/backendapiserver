@@ -1,5 +1,6 @@
 # What is This?
 this is my first project of making resful API, 
+*REST* or *RESTful API* design (Representational State Transfer) is designed to take advantage of existing protocols. While REST can be used over nearly any protocol, it usually takes advantage of HTTP when used for Web APIs
 
 # What is this project for?
 it used for adding products and category in the POS App web, (on my repo)
